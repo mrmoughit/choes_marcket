@@ -25,11 +25,7 @@ body{
    padding:3rem 2rem;
 }
 
-.container .title{
-   font-size: 3.5rem;
-   color:#444;
-   margin-bottom: 3rem;
-   text-transform: uppercase;
+.container .logo{
    text-align: center;
 }
 
